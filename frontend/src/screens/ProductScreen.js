@@ -53,7 +53,7 @@ const ProductScreen = (props) => {
                                             <span className="success">In Stock
                                             </span>
                                         ) : (
-                                            <span className="error">Unavailable
+                                            <span className="danger">Unavailable
                                             </span>
                                         )}
                                     </div>
